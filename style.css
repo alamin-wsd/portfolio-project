@@ -32,7 +32,7 @@
 
 header{
 	padding: 20px 0;
-	background: url('../image/background.jpg');
+	background: url('background.jpg');
 	background-size: cover;
 	background-position: center;
 
@@ -277,7 +277,7 @@ nav .menu ul .btn:hover{
 	color: black
 }
 .about .about-img{
-	background: url('../image/main-img.png');
+	background: url('main-img.png');
 	height: 402px;
 	background-size: cover; 
 }
